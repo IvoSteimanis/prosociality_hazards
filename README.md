@@ -8,6 +8,8 @@ __ORCID:__ Steimanis: 0000-0002-8550-4675; Vollan: 0000-0002-5592-4185 <br>
 __Classification:__ Social Sciences, Economic Sciences <br>
 __Keywords:__ climate hazards, prosociality, in-group favoritism, antisociality <br>
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6343977.svg)](https://doi.org/10.5281/zenodo.6343977)
+
 ## Treatments: Information videos
 In order to channel participant’s thoughts on potential consequences caused by SLR we used three-minute-long videos:
 - ‘treatment_SI.mp4’ is the treatment video used in Solomon Islands 
